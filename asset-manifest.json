@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AppNetflix/static/css/main.b9cfafc9.css",
-    "main.js": "/AppNetflix/static/js/main.0245c8b7.js",
+    "main.js": "/AppNetflix/static/js/main.ebbefb33.js",
     "index.html": "/AppNetflix/index.html",
     "main.b9cfafc9.css.map": "/AppNetflix/static/css/main.b9cfafc9.css.map",
-    "main.0245c8b7.js.map": "/AppNetflix/static/js/main.0245c8b7.js.map"
+    "main.ebbefb33.js.map": "/AppNetflix/static/js/main.ebbefb33.js.map"
   },
   "entrypoints": [
     "static/css/main.b9cfafc9.css",
-    "static/js/main.0245c8b7.js"
+    "static/js/main.ebbefb33.js"
   ]
 }
