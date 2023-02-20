@@ -1,0 +1,29 @@
+.movieCard{
+   list-style: none;  /*Saco los puntos */
+   font-size: 1.5rem;  /*Le doy el taño de la fuente  */
+   text-align: center; /*Cenbtro la card */
+   transition: background-color .5s; 
+   cursor: pointer;
+  
+
+  }
+
+
+.movieImage{
+    border-radius: 10px;/*Redondeo la imagen  */
+    background-color: azure;
+    width: 230px;/*ancho */
+    height: 345px; /*alto */
+
+   
+    
+}
+
+@media(max-width:560px){ /*Cuando este en 560 px va a pasar a un 90% */
+    .movieImage{
+     width: 90%;
+     height: auto;
+    }
+    
+}
+
